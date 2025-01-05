@@ -14,3 +14,4 @@
 - [『不自然さを解決する「ドメインサービス」』](https://github.com/yoshidashota-hub/readbook2025/blob/main/001-Domain-Driven-Design/4%E7%AB%A0/mod.md)
 - [『データにまつわる処理を分離する「リポジトリ」』](https://github.com/yoshidashota-hub/readbook2025/blob/main/001-Domain-Driven-Design/4%E7%AB%A0/mod.md)
 - [『ユースケースを実現する「アプリケーションサービス」』](https://github.com/yoshidashota-hub/readbook2025/blob/main/001-Domain-Driven-Design/6%E7%AB%A0/mod.md)
+- [『柔軟性をもたらす「依存関係のコントロール」』](https://github.com/yoshidashota-hub/readbook2025/blob/main/001-Domain-Driven-Design/7%E7%AB%A0/mod.md)
