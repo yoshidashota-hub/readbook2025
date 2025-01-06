@@ -20,3 +20,4 @@
 - [『データの整合性を保つ』](https://github.com/yoshidashota-hub/readbook2025/blob/main/001-Domain-Driven-Design/10%E7%AB%A0/mod.md)
 - [『複雑な条件を表現する「仕様」』](https://github.com/yoshidashota-hub/readbook2025/blob/main/001-Domain-Driven-Design/13%E7%AB%A0/mod.md)
 - [『アーキテクチャ』](https://github.com/yoshidashota-hub/readbook2025/blob/main/001-Domain-Driven-Design/14%E7%AB%A0/mod.md)
+- [『ドメイン駆動設計のとびらを開こう』](https://github.com/yoshidashota-hub/readbook2025/blob/main/001-Domain-Driven-Design/15%E7%AB%A0/mod.md)
