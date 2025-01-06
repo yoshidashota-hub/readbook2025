@@ -18,3 +18,4 @@
 - [『ソフトウェアに組み立てる』](https://github.com/yoshidashota-hub/readbook2025/blob/main/001-Domain-Driven-Design/8%E7%AB%A0/mod.md)
 - [『複雑な生成処理を行う「ファクトリ」』](https://github.com/yoshidashota-hub/readbook2025/blob/main/001-Domain-Driven-Design/8%E7%AB%A0/mod.md)
 - [『データの整合性を保つ』](https://github.com/yoshidashota-hub/readbook2025/blob/main/001-Domain-Driven-Design/10%E7%AB%A0/mod.md)
+- [『複雑な条件を表現する「仕様」』](https://github.com/yoshidashota-hub/readbook2025/blob/main/001-Domain-Driven-Design/13%E7%AB%A0/mod.md)
